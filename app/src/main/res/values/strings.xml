@@ -307,4 +307,9 @@
     <string name="password_generator_category_title">Password Generator</string>
     <string name="tap_clear_clipboard">Tap here to clear clipboard</string>
     <string name="clone_git_repo">Clone a git repository to sync changes</string>
+    <string name="clone_protocol_ssh" translatable="false">SSH</string>
+    <string name="clone_protocol_https" translatable="false">HTTPS</string>
+    <string name="connection_mode_ssh_key" translatable="false">SSH key</string>
+    <string name="connection_mode_basic_authentication" translatable="false">Password</string>
+    <string name="connection_mode_openkeychain" translatable="false">OpenKeychain</string>
 </resources>

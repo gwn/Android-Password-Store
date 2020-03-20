@@ -19,4 +19,6 @@
     <color name="list_multiselect_background">#668eacbb</color>
     <color name="navigation_bar_color">#000000</color>
     <color name="status_bar_color">@color/primary_dark_color</color>
+    <color name="ripple_color">#aaff7043</color>
+    <color name="button_color">#44ff7043</color>
 </resources>
